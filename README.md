@@ -1,1 +1,3 @@
 # GitHub Lab Project 
+Git is a distributed version control system.
+GitHub is a platform for hosting Git repositories.
